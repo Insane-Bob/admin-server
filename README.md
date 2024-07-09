@@ -2,7 +2,7 @@
 
 - Serveur web hébergeant le site : limhu.live dans le cadre d'un projet d'Amnistration des serveurs Webs
 
-<ins>- Fonctionnalités :</ins>
+<ins>Fonctionnalités :</ins>
 
 - Mise en place d'un vrai nom de domaine
 - Mise en place d'un serveur avec une connexion ssh sécurisé
